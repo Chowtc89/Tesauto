@@ -53887,7 +53887,7 @@ T(a){return new A.qo(B.Gi,"Tesauto",A.a3d(B.W,null,B.C6,B.l,null),!1,null)}}
 A.t7.prototype={
 lB(){var s=0,r=A.Q(t.H),q
 var $async$lB=A.R(function(a,b){if(a===1)return A.N(b,r)
-for(;;)switch(s){case 0:q=A.hN("https://auth.tesla.com/oauth2/v3/authorize?response_type=code&client_id=73cd0b2d-e3e7-4a8b-ae57-e5fd2c46fb2d&redirect_uri=https://chowtc89.github.io/tesauto/&scope=openid%20vehicle_device_data%20offline_access&state=12345",0,null)
+for(;;)switch(s){case 0:q=A.hN("https://auth.tesla.com/oauth2/v3/authorize?response_type=code&client_id=73cd0b2d-e3e7-4a8b-ae57-e5fd2c46fb2d&redirect_uri=https://chowtc89.github.io/Tesauto/&scope=openid%20vehicle_device_data%20offline_access&state=12345",0,null)
 s=5
 return A.S(A.a3W(q),$async$lB)
 case 5:s=b?2:4
